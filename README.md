@@ -1,6 +1,27 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+# REQUIREMENT INSTALL
+
+## 1. INSTALL NODE.JS
+
+-   Node 16.x || 18.x
+-   Recommend Using bun
+
+## 2. INSTALL BUN
+
+You can install bun by using NPM
+
+```
+    npm install -g bun
+```
+or using PowerShell
+
+```
+-c "irm bun.sh/install.ps1|iex"
+```
+
+## 3. STARTING 
 
 First, run the development server:
 
@@ -13,6 +34,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## 4. BUILD
+
+
+```sh
+bun run build
+```
 
 ## Learn More
 
