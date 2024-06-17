@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 You can install bun by using NPM
 
 ```
-    npm install -g bun
+npm install -g bun
 ```
 or using PowerShell
 
